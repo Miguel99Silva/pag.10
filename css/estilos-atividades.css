@@ -1,0 +1,372 @@
+.page-atividades .input-group {
+      width: 50%;
+      margin-left: 50px;
+}
+
+.page-atividades .search-barra {
+      height: 130px;
+      margin-top: 80px;
+      margin-right: 180px;
+      margin-left: 400px;
+}
+
+.page-atividades .imagem-barra {
+      background-image: url('../images/serra.jpg');
+      height: 130px;
+}
+
+.page-atividades .rebse {
+      text-align: center;
+      color: white;
+}
+
+.page-atividades .area {
+      text-align: right;
+      color: white;
+}
+
+
+
+.page-atividades .slideshow {
+      width: 100%;
+}
+
+.page-atividades .negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-atividades .bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-atividades .letra {
+      font-weight: bolder;
+}
+
+.page-atividades .agenda {
+      width: 100%;
+}
+
+.page-atividades .noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-atividades .imagem2 {
+      height: 190px;
+      color: white;
+}
+
+.page-atividades .maio {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-atividades .noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-atividades .junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-atividades .imagem4 {
+      height: 190px;
+      color: white;
+}
+
+.page-atividades .noticias {
+      background-color: grey;
+      height: 800px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.page-atividades .pesquisa {
+      height: 200px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE2/images/iphone.jpeg');
+}
+
+.page-atividades .documentos {
+      height: 500px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/milimetricas.jpg');
+}
+
+.page-atividades .parcerias {
+      background-image: url('../images/serra.jpg');
+      height: 180px;
+}
+
+.page-atividades .cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.page-atividades .mapas {
+      height: 200px;
+      background-size: cover;
+      width: 100%;
+}
+
+.page-atividades .informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 95px;
+}
+
+.page-atividades .empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 90px;
+}
+
+.page-atividades .turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-atividades .exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-atividades .doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.page-atividades .doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-atividades .doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-atividades .telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align: center;
+}
+
+.page-atividades .nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-atividades .sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-atividades .texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.page-atividades .botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.page-atividades .button {
+      text-align: center;
+      margin-top: -25px;
+      color: transparent;
+}
+
+.page-atividades .imagem-mapa {
+      background-size: cover;
+      width: 100%;
+}
+
+.page-atividades .img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.page-atividades .logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.page-atividades .centro2020 {
+      width: 100%;
+}
+
+.page-atividades .texto-cores {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 15px;
+}
+
+.page-atividades .imagem {
+      width: 100%;
+}
+
+.page-atividades .imagens {
+      width: 100%;
+      margin-top: 20px;
+}
+
+.page-atividades .teclados {
+      height: 190px;
+      width: 100%;
+}
+
+.page-atividades .carousel-inner {
+      height: 100%;
+}
+
+.page-atividades .item-active {
+      width: 100%;
+}
+
+.page-atividades .seta {
+      border-color: white;
+      margin-top: 10px;
+}
+
+.page-atividades .mao-metal {
+      width: 100%;
+      height: 190px;
+}
+
+.page-atividades .cadernos {
+      width: 100%;
+      height: 190px;
+}
+
+.page-atividades .agendas {
+      margin-top: 30px;
+      margin-left: 50px;
+}
+
+.page-atividades .items {
+      margin-right: 100px;
+}
+
+.page-atividades .item1 {
+      margin-left: 100px;
+      margin-top: 30px;
+}
+
+.page-atividades .pioneer {
+      width: 100%;
+      margin-top: -15px;
+}
+
+.page-atividades .phone {
+      width: 50%;
+}
+
+.page-atividades .projeto {
+      width: 100%; 
+      height: 900px;
+      font-size: 355%;           
+
+}
+
+.page-atividades .logotipo {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 50px;   
+}
+
+.page-atividades .beiras {
+      background-color: white;
+      font-size:15px;   
+      margin-top: -150px;
+                   
+}       
+
+.page-atividades .fora-row {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 20px;                    
+}           
+
+.page-atividades .pro{
+      color:black;
+      font-weight: bolder;
+      font-size: 10px;       
+}   
+
+
+.page-atividades .seta-icon{
+    margin-top: 20px;
+           
+}   
+
+.page-atividades .row-texto{
+    margin-top: 8px;
+    width:100%;
+    
+} 
+
+.page-atividades .titulo{
+   font-weight: bolder;
+    font-size: 30px;
+}  
+
+
+.page-atividades .objetivo{
+ text-align:right;
+ font-size: 40px;
+ font-weight: bolder;
+  margin-top: -15px;
+  color:black;
+
+}   
+
+.page-atividades .entidade{
+ text-align:right;
+ font-size: 20px;
+ font-weight: bolder;
+ margin-top: -15px;
+ color: black;
+
+}      
+
+.page-atividades .seta-torta{
+  margin-top: 15px;
+  text-align:left;
+       
+}   
+
+
+.page-atividades .passa{
+      color:deeppink;
+}                                       
+
+
+.page-atividades .desenhos{
+      margin-top:100px;
+} 

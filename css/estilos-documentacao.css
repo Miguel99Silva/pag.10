@@ -1,0 +1,469 @@
+.page-documentacao .input-group {
+      width: 50%;
+      margin-left: 50px;
+}
+
+ .page-documentacao  .search-barra {
+      height: 130px;
+      margin-top: 80px;
+      margin-right: 180px;
+      margin-left: 400px;
+}
+
+.page-documentacao .imagem-barra {
+      background-image: url('../images/serra.jpg');
+      height: 130px;
+}
+
+.page-documentacao .rebse {
+      text-align: center;
+      color: white;
+}
+
+.page-documentacao .area {
+      text-align: right;
+      color: white;
+}
+
+.page-documentacao .slideshow {
+      width: 100%;
+}
+
+.page-documentacao .negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-documentacao .bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-documentacao .letra {
+      font-weight: bolder;
+}
+
+.page-documentacao .agenda {
+      width: 100%;
+}
+
+.page-documentacao .noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-documentacao .imagem2 {
+      height: 190px;
+      color: white;
+}
+
+.page-documentacao .maio {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-documentacao .noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-documentacao .junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-documentacao .imagem4 {
+      height: 190px;
+      color: white;
+}
+
+.page-documentacao .noticias {
+      background-color: grey;
+      height: 800px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.page-documentacao .pesquisa {
+      height: 200px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE2/images/iphone.jpeg');
+}
+
+.page-documentacao .documentos {
+      height: 500px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/milimetricas.jpg');
+}
+
+.page-documentacao .parcerias {
+      background-image: url('../images/serra.jpg');
+      height: 180px;
+}
+
+.page-documentacao .cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.page-documentacao .mapas {
+      height: 200px;
+      background-size: cover;
+      width: 100%;
+}
+
+.page-documentacao .informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 95px;
+}
+
+.page-documentacao .empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 90px;
+}
+
+.page-documentacao .turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-documentacao .exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-documentacao .doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.page-documentacao .doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-documentacao .doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-documentacao .telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align: center;
+}
+
+.page-documentacao .nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-documentacao .sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-documentacao .texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.page-documentacao .botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.page-documentacao .button {
+      text-align: center;
+      margin-top: -25px;
+      color: transparent;
+}
+
+.page-documentacao .imagem-mapa {
+      background-size: cover;
+      width: 100%;
+}
+
+.page-documentacao .img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.page-documentacao .logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.page-documentacao .centro2020 {
+      width: 100%;
+}
+
+.page-documentacao .texto-cores {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 15px;
+}
+
+.page-documentacao .imagem {
+      width: 100%;
+}
+
+.page-documentacao .imagens {
+      width: 100%;
+      margin-top: 20px;
+}
+
+.page-documentacao .teclados {
+      height: 190px;
+      width: 100%;
+}
+
+.page-documentacao .carousel-inner {
+      height: 100%;
+}
+
+.page-documentacao .item-active {
+      width: 100%;
+}
+
+.page-documentacao .seta {
+      border-color: white;
+      margin-top: 10px;
+}
+
+.page-documentacao .mao-metal {
+      width: 100%;
+      height: 190px;
+}
+
+.page-documentacao .cadernos {
+      width: 100%;
+      height: 190px;
+}
+
+.page-documentacao .agendas {
+      margin-top: 30px;
+      margin-left: 50px;
+}
+
+.page-documentacao .items {
+      margin-right: 100px;
+}
+
+.page-documentacao .item1 {
+      margin-left: 100px;
+      margin-top: 30px;
+}
+
+.page-documentacao .pioneer {
+      width: 100%;
+      margin-top: -15px;
+}
+
+.page-documentacao .phone {
+      width: 50%;
+}
+
+.page-documentacao .projeto {
+      width: 100%;
+      height: 1500px;
+      font-size: 355%;
+}
+
+.page-documentacao .logotipo {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 50px;
+}
+
+.page-documentacao .beiras {
+      background-color: white;
+      font-size: 15px;
+      margin-top: -150px;
+}
+
+.page-documentacao .fora-row {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 40px;
+      margin-top: -90px;
+}
+
+.page-documentacao .fora-row-1 {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 60px;
+}
+
+.page-documentacao .pro {
+      color: black;
+      font-weight: bolder;
+      font-size: 10px;
+}
+
+.page-documentacao .seta-icon {
+      margin-top: 20px;
+}
+
+.page-documentacao .row-texto {
+      margin-top: 60px;
+      width: 100%;
+}
+
+.page-documentacao .titulo {
+      font-weight: bolder;
+      font-size: 30px;
+}
+
+.page-documentacao .objetivo {
+      text-align: right;
+      font-size: 40px;
+      font-weight: bolder;
+      margin-top: -15px;
+      color: deeppink;
+}
+
+.page-documentacao .entidade {
+      text-align: right;
+      font-size: 20px;
+      font-weight: bolder;
+      margin-top: -15px;
+      color: black;
+}
+
+.page-documentacao .seta-torta {   
+      margin-top: 15px;
+      text-align: left;
+}
+
+.page-documentacao .passa {
+      color: black;
+}
+
+.page-documentacao .desenhos {
+      margin-top: 100px;
+}
+
+.page-documentacao .noticia-indiv {
+      height: 1300px;
+      float: left;
+}
+
+.page-documentacao .texto-not {
+      margin-top: 200px;
+      height: 950px;
+}
+
+.page-documentacao .tags {
+      height: 70px;
+      margin-top: 250px;
+}
+
+.page-documentacao .couve {
+      text-align: left;
+      color: deepskyblue;
+      font-weight: bolder;
+}
+
+.page-documentacao .bot {
+        margin-top: 990px;
+        background-color:blue; 
+
+}
+
+.page-documentacao .btn-num {
+      border-color: black;
+      margin-left: 400px;
+      
+      
+      
+}
+.page-documentacao .btn-num1 {
+      border-color: black;
+      text-align: right;
+      margin-top: -20px;
+      
+}
+
+.page-documentacao .btn {
+      border-color: black;
+      float: center;
+      margin-top: -30px;
+     
+}
+
+.page-documentacao .bot button{
+
+margin-top: 10px;
+background-color:  black;
+color: white;
+
+
+}
+
+.page-documentacao .documentacao {
+        
+        text-align: left;
+        margin-top: 50px;
+        
+}
+
+.page-documentacao .nome-doc {
+        color: deepskyblue;
+        font-weight: bolder;
+        margin-top: 260px;
+        margin-left: 30px;
+        font-size: 30px;
+        font-family: 'Fresca', sans-serif;
+        
+}
+
+.page-documentacao .data {
+        
+        font-size:15px;
+        margin-top: 9px;
+        font-weight: bolder;
+}
+.page-documentacao .portaria{
+        font-size:25px;
+        font-weight: 30px;
+        color: deepskyblue;
+
+}
+.page-documentacao .text {
+        text-align: left;
+       color:grey;
+
+}
+.page-documentacao .pdf {
+        height: 190px;
+       
+
+}
+
+.page-documentacao .pdfs {
+        margin-top: -35px;
+        width: 40px;
+
+}

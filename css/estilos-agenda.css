@@ -1,0 +1,511 @@
+.page-agenda .input-group {
+    width: 50%;
+    margin-left: 50px;
+}
+
+.page-agenda .search-barra {
+    height: 130px;
+    margin-top: 80px;
+    margin-right: 180px;
+    margin-left: 400px;
+}
+
+.page-agenda .imagem-barra {
+    background-image: url('../images/serra.jpg');
+    height: 130px;
+}
+
+.page-agenda .rebse {
+    text-align: center;
+    color: white;
+}
+
+.page-agenda .area {
+    text-align: right;
+    color: white;
+}
+
+.page-agenda .slideshow {
+    width: 100%;
+}
+
+.page-agenda .negocio {
+    background-color: palevioletred;
+    height: 130px;
+    text-align: center;
+    color: white;
+}
+
+.page-agenda .bolsa {
+    background-color: blue;
+    height: 130px;
+    text-align: center;
+    color: white;
+}
+
+.page-agenda .letra {
+    font-weight: bolder;
+}
+.page-agenda .agenda {
+    width: 100%;
+}
+
+.page-agenda .noticia-1 {
+    height: 300px;
+    margin-top: 40px;
+}
+
+.page-agenda .imagem2 {
+    height: 190px;
+    color: white;
+}
+
+.page-agenda .maio {
+    background-color: palevioletred;
+    height: 190px;
+    color: white;
+}
+
+.page-agenda .noticia2 {
+    height: 300px;
+    margin-top: 40px;
+}
+
+.page-agenda .junho {
+    background-color: palevioletred;
+    height: 190px;
+    color: white;
+}
+
+.page-agenda .imagem4 {
+    height: 190px;
+    color: white;
+}
+
+.page-agenda .noticias {
+    background-color: grey;
+    height: 800px;
+    background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.page-agenda .pesquisa {
+    height: 200px;
+    background-image: url('C:/Users/Ondina/Desktop/REBSE2/images/iphone.jpeg');
+}
+
+.page-agenda .documentos {
+    height: 500px;
+    background-image: url('C:/Users/Ondina/Desktop/REBSE/milimetricas.jpg');
+}
+
+.page-agenda .parcerias {
+    background-image: url('../images/serra.jpg');
+    height: 180px;
+    margin-top:50px; 
+}
+
+.page-agenda .cimbse {
+    height: 190px;
+    margin-top: 20px;
+}
+
+.page-agenda .mapas {
+    height: 200px;
+    background-size: cover;
+    width: 100%;
+}
+
+.page-agenda .informacao {
+    text-align: center;
+    height: 150px;
+    margin-top: 95px;
+}
+
+.page-agenda .empresa {
+    background-color: white;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+
+.page-agenda .turismo {
+    background-color: white;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.page-agenda .exportacao {
+    background-color: white;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.page-agenda .doc1 {
+    background-color: white;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.page-agenda .doc2 {
+    background-color: white;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.page-agenda .doc3 {
+    background-color: white;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.page-agenda .telefone {
+    height: 90px;
+    margin-top: 30px;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.page-agenda .nome {
+    height: 90px;
+    margin-top: 30px;
+    color: black;
+}
+
+.page-agenda .sugestao {
+    height: 90px;
+    margin-top: 30px;
+    color: black;
+}
+
+.page-agenda .texto {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.page-agenda .botao-ler  {
+    text-align: center;
+    margin-top: 60px;
+    
+    color: deeppink;
+}
+.page-agenda .botao-ler-mais  {
+    text-align: center;
+    margin-top: 60px;
+    background-color: deeppink;
+    color: black;
+}
+
+.page-agenda .button {
+    text-align: center;
+    margin-top: -25px;
+    color: transparent;
+}
+
+.page-agenda .imagem-mapa {
+    background-size: cover;
+    width: 100%;
+}
+
+.page-agenda .img-responsive {
+    background-size: cover;
+    vertical-align: middle;
+}
+
+.page-agenda .logotipos {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.page-agenda .centro2020 {
+    width: 100%;
+}
+
+.page-agenda .texto-cores {
+    color: deepskyblue;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.page-agenda .imagem {
+    width: 100%;
+}
+
+.page-agenda .imagens {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.page-agenda .teclados {
+    height: 190px;
+    width: 100%;
+}
+
+.page-agenda .carousel-inner {
+    height: 100%;
+}
+
+.page-agenda .item-active {
+    width: 100%;
+}
+
+.page-agenda .seta {
+    border-color: white;
+    margin-top: 10px;
+}
+
+.page-agenda .mao-metal {
+    width: 100%;
+    height: 190px;
+}
+
+.page-agenda .cadernos {
+    width: 100%;
+    height: 190px;
+}
+
+.page-agenda .agendas {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.page-agenda .items {
+    margin-right: 100px;
+}
+
+.page-agenda .item1 {
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.page-agenda .pioneer {
+    width: 100%;
+    margin-top: -15px;
+}
+
+.page-agenda .phone {
+    width: 50%;
+}
+
+.page-agenda .projeto {
+    width: 100%;
+    height: 1500px;
+    font-size: 355%;
+}
+
+.page-agenda .logotipo {
+    color: deepskyblue;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.page-agenda .beiras {
+    background-color: white;
+    font-size: 15px;
+    margin-top: -150px;
+}
+
+.page-agenda .fora-row {
+    color: deepskyblue;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top: -90px;
+}
+
+.page-agenda .fora-row-1 {
+    color: deepskyblue;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.page-agenda .pro {
+    color: black;
+    font-weight: bolder;
+    font-size: 10px;
+}
+
+.page-agenda .seta-icon {
+    margin-top: 20px;
+}
+
+.page-agenda .row-texto {
+    margin-top: 60px;
+    width: 100%;
+}
+
+.page-agenda .titulo {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.page-agenda .objetivo {
+    text-align: right;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: -15px;
+    color: deeppink;
+}
+
+.page-agenda .entidade {
+    text-align: right;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: -15px;
+    color: black;
+}
+
+.page-agenda .seta-torta {
+    margin-top: 15px;
+    text-align: left;
+}
+
+.page-agenda .passa {
+    color: black;
+}
+
+.page-agenda .desenhos {
+    margin-top: 100px;
+}
+
+.page-agenda .noticia-indiv {
+    height: 1300px;
+    float: left;
+}
+
+.page-agenda .texto-not {
+    margin-top: 200px;
+    height: 950px;
+}
+
+.page-agenda .tags {
+    height: 70px;
+    margin-top: 250px;
+}
+
+.page-agenda .couve {
+    text-align: left;
+    color: deepskyblue;
+    font-weight: bolder;
+}
+
+.page-agenda .bot {
+    margin-top: 9px;
+    
+}
+
+.page-agenda .btn-num {
+    border-color: black;
+    margin-left: 400px;
+}
+
+.page-agenda .btn-num1 {
+    border-color: black;
+    text-align: right;
+    margin-top: -20px;
+}
+
+.page-agenda .btn {
+    border-color: black;
+    float: center;
+    margin-top: -30px;
+}
+
+.page-agenda .bot button {
+    margin-top: 50px;  
+    color: white;
+    text-align: center;
+    margin-left:100px;
+    background-color: deeppink;
+}
+
+.page-agenda .row1 {
+    margin-top: 10px;
+    
+    color: white;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.page-agenda .documentacao {
+    text-align: left;
+    margin-top: 50px;
+}
+
+.page-agenda .nome-doc {
+    color: deepskyblue;
+    font-weight: bolder;
+    margin-top: 260px;
+    margin-left: 30px;
+    font-size: 50px;
+    font-family: 'Fresca', sans-serif;
+}
+
+.page-agenda .data {
+    font-size: 15px;
+    margin-top: 9px;
+    font-weight: bolder;
+}
+
+.page-agenda .portaria {
+    font-size: 25px;
+    font-weight: 30px;
+    color: deepskyblue;
+}
+
+.page-agenda .text {
+    text-align: left;
+    color: grey;
+}
+
+.page-agenda .pdf {
+    height: 190px;
+}
+
+.page-agenda .pdfs {
+    margin-top: -35px;
+    width: 40px;
+}
+
+.page-agenda .icons-agenda {
+  width: 100%;
+  text: center;
+}
+
+.page-agenda .icons-baixo{
+   width: 200px;
+
+  
+}
+
+
+.page-agenda .batata{
+   margin-top: 20px;
+
+  
+}
+
+
+.page-agenda .laranja{
+  margin-top: 20px;
+
+  
+}
+
+.page-agenda .banners{
+    
+    height: 100px;
+  
+}
+
+.page-agenda .dia{
+    
+    background-color: pink;
+    height: 30px;
+  
+}

@@ -1,0 +1,345 @@
+.page-entidades .input-group {
+      width: 50%;
+      margin-left: 50px;
+      ;
+}
+
+.page-entidades .search-barra {
+      height: 130px;
+      margin-top: 80px;
+      margin-right: 180px;
+      margin-left: 400px;
+}
+
+.page-entidades .imagem-barra {
+      background-image: url('../images/serra.jpg');
+      height: 130px;
+}
+
+.page-entidades .rebse {
+      text-align: center;
+      color: white;
+}
+
+.page-entidades .area {
+      text-align: right;
+      color: white;
+}
+
+.page-entidades .slideshow {
+      width: 100%;
+}
+
+.page-entidades .negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-entidades .bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-entidades .letra {
+      font-weight: bolder;
+}
+
+.page-entidades .agenda {
+      width: 100%;
+}
+
+.page-entidades .noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-entidades .imagem2 {
+      height: 190px;
+      color: white;
+}
+
+.page-entidades .maio {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-entidades .noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-entidades .junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-entidades .imagem4 {
+      height: 190px;
+      color: white;
+}
+
+.page-entidades .noticias {
+      background-color: grey;
+      height: 800px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.page-entidades .pesquisa {
+      height: 200px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/pesquisa-bg.jpg')
+}
+
+.page-entidades .documentos {
+      height: 500px;
+      background-image: url('../images/milimetricas.jpg');
+}
+
+.page-entidades .parcerias {
+      background-image: url('../images/serra.jpg');
+      color: white;
+      margin-top:200px; 
+
+     
+}
+
+.page-entidades .escrita {
+      margin-top: 30px;
+}
+
+.page-entidades .cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.page-entidades .mapas {
+      margin-top: -20px;
+      background-size: cover;
+      width: 100%;
+}
+.page-entidades .pastilha {
+      color:white; 
+      background-color:deepskyblue;
+      width: 100%;
+}
+.page-entidades .bot button {
+    float:center; 
+    color: white;
+    text-align: center;
+    margin-left:450px;
+    background-color: deeppink;
+ }
+
+.page-entidades .informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 65px;
+}
+
+.page-entidades .empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 90px;
+}
+
+.page-entidades .turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-entidades .exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-entidades .doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.page-entidades .doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-entidades .doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-entidades .telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align: center;
+}
+
+.page-entidades .nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-entidades .sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-entidades .texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.page-entidades .botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.page-entidades .button {
+      text-align: center;
+      margin-top: -25px;
+      color: transparent;
+}
+
+.page-entidades .imagem-mapa {
+      background-size: cover;
+      width: 100%;
+      height: 190px;
+}
+
+.page-entidades .img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.page-entidades .logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.page-entidades .centro2020 {
+      width: 100%;
+      margin-top: -10px;
+}
+
+.page-entidades .texto-cores {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 15px;
+}
+
+.page-entidades .imagem {
+      width: 100%;
+}
+
+.page-entidades .imagens {
+      width: 100%;
+      margin-top: 20px;
+}
+
+.page-entidades .teclados {
+      height: 190px;
+      width: 100%;
+}
+
+.page-entidades .carousel-inner {
+      height: 100%;
+}
+
+.page-entidades .item-active {
+      width: 100%;
+}
+
+.page-entidades .seta {
+      width: 100%;
+      border-color: white;
+      margin-top: 10px;
+}
+
+.page-entidades .mao-metal {
+      width: 100%;
+      height: 190px;
+}
+
+.page-entidades .cadernos {
+      width: 100%;
+      height: 190px;
+}
+
+.page-entidades .agendas {
+      margin-top: 30px;
+      margin-left: 50px;
+}
+
+.page-entidades .items {
+      margin-right: 100px;
+}
+
+.page-entidades .item1 {
+      margin-left: 100px;
+      margin-top: 30px;
+}
+
+.page-entidades .pioneer {
+      width: 100%;
+      margin-top: -15px;
+}
+
+.page-entidades .phone {
+      width: 50%;
+}
+
+
+.page-entidades .projeto {
+      width: 100%; 
+      height: 900px;
+      font-size: 355%; 
+      margin-top:-52px;    
+      
+ 
+}
+.page-entidades .row-texto{
+      font-size:20px; 
+      border-color:black;
+
+ 
+}
+.page-entidades .texto-esquerda{
+      background-color:white;
+      margin-top:-20px; 
+      margin-left:-20px; 
+}
+.page-entidades .logotipo{
+      color:deepskyblue;
+     
+}
+
+
+.page-entidades .promotoras{
+      color:deepskyblue;
+      margin-top:200px;  
+}
+.page-entidades .setinha{
+     float:left; 
+     margin-top:60px; 
+     margin-left:400px; 
+}s

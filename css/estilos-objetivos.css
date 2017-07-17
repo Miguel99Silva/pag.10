@@ -1,0 +1,372 @@
+.page-objetivos .input-group {
+      width: 50%;
+      margin-left: 50px;
+}
+
+.page-objetivos .search-barra {
+      height: 130px;
+      margin-top: 80px;
+      margin-right: 180px;
+      margin-left: 400px;
+}
+
+.page-objetivos .imagem-barra {
+      background-image: url('../images/serra.jpg');
+      height: 130px;
+}
+
+.page-objetivos .rebse {
+      text-align: center;
+      color: white;
+}
+
+.page-objetivos .area {
+      text-align: right;
+      color: white;
+}
+
+
+
+.page-objetivos .slideshow {
+      width: 100%;
+}
+
+.page-objetivos .negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-objetivos .bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-objetivos .letra {
+      font-weight: bolder;
+}
+
+.page-objetivos .agenda {
+      width: 100%;
+}
+
+.page-objetivos .noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-objetivos .imagem2 {
+      height: 190px;
+      color: white;
+}
+
+.page-objetivos .maio {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-objetivos .noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-objetivos .junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-objetivos .imagem4 {
+      height: 190px;
+      color: white;
+}
+
+.page-objetivos .noticias {
+      background-color: grey;
+      height: 800px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.page-objetivos .pesquisa {
+      height: 200px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE2/images/iphone.jpeg');
+}
+
+.page-objetivos .documentos {
+      height: 500px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/milimetricas.jpg');
+}
+
+.page-objetivos .parcerias {
+      background-image: url('../images/serra.jpg');
+      height: 180px;
+}
+
+.page-objetivos .cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.page-objetivos .mapas {
+      height: 200px;
+      background-size: cover;
+      width: 100%;
+}
+
+.page-objetivos .informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 95px;
+}
+
+.page-objetivos .empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 90px;
+}
+
+.page-objetivos .turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-objetivos .exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-objetivos .doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.page-objetivos .doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-objetivos .doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-objetivos .telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align: center;
+}
+
+.page-objetivos .nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-objetivos .sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-objetivos .texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.page-objetivos .botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.page-objetivos .button {
+      text-align: center;
+      margin-top: -25px;
+      color: transparent;
+}
+
+.page-objetivos .imagem-mapa {
+      background-size: cover;
+      width: 100%;
+}
+
+.page-objetivos .img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.page-objetivos .logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.page-objetivos .centro2020 {
+      width: 100%;
+}
+
+.page-objetivos .texto-cores {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 15px;
+}
+
+.page-objetivos .imagem {
+      width: 100%;
+}
+
+.page-objetivos .imagens {
+      width: 100%;
+      margin-top: 20px;
+}
+
+.page-objetivos .teclados {
+      height: 190px;
+      width: 100%;
+}
+
+.page-objetivos .carousel-inner {
+      height: 100%;
+}
+
+.page-objetivos .item-active {
+      width: 100%;
+}
+
+.page-objetivos .seta {
+      border-color: white;
+      margin-top: 10px;
+}
+
+.page-objetivos .mao-metal {
+      width: 100%;
+      height: 190px;
+}
+
+.page-objetivos .cadernos {
+      width: 100%;
+      height: 190px;
+}
+
+.page-objetivos .agendas {
+      margin-top: 30px;
+      margin-left: 50px;
+}
+
+.page-objetivos .items {
+      margin-right: 100px;
+}
+
+.page-objetivos .item1 {
+      margin-left: 100px;
+      margin-top: 30px;
+}
+
+.page-objetivos .pioneer {
+      width: 100%;
+      margin-top: -15px;
+}
+
+.page-objetivos .phone {
+      width: 50%;
+}
+
+.page-objetivos .projeto {
+      width: 100%; 
+      height: 1500px;
+      font-size: 355%;           
+
+}
+
+.page-objetivos .logotipo {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 50px;   
+}
+
+.page-objetivos .beiras {
+      background-color: white;
+      font-size:15px;   
+      margin-top: -150px;
+                   
+}       
+
+.page-objetivos .fora-row {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 20px;                    
+}           
+
+.page-objetivos .pro{
+      color:black;
+      font-weight: bolder;
+      font-size: 10px;       
+}   
+
+
+.page-objetivos .seta-icon{
+    margin-top: 20px;
+           
+}   
+
+.page-objetivos .row-texto{
+    margin-top: 60px;
+    width:100%;
+    
+} 
+
+.page-objetivos .titulo{
+   font-weight: bolder;
+    font-size: 30px;
+}  
+
+
+.page-objetivos .objetivo{
+ text-align:right;
+ font-size: 40px;
+ font-weight: bolder;
+  margin-top: -15px;
+  color: deeppink;
+
+}   
+
+.page-objetivos .entidade{
+ text-align:right;
+ font-size: 20px;
+ font-weight: bolder;
+ margin-top: -15px;
+ color: black;
+
+}      
+
+.page-objetivos .seta-torta{
+  margin-top: 15px;
+  text-align:left;
+       
+}   
+
+ 
+.page-objetivos .passa{
+      color:black;
+}                                       
+
+
+.page-objetivos .desenhos{
+      margin-top:100px;
+} 

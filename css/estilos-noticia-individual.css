@@ -1,0 +1,393 @@
+.page-noticia-individual .input-group {
+      width: 50%;
+      margin-left: 50px;
+}
+
+o .page-noticia-individual .search-barra {
+      height: 130px;
+      margin-top: 80px;
+      margin-right: 180px;
+      margin-left: 400px;
+}
+
+.page-noticia-individual .imagem-barra {
+      background-image: url('../images/serra.jpg');
+      height: 130px;
+}
+
+.page-noticia-individual .rebse {
+      text-align: center;
+      color: white;
+}
+
+.page-noticia-individual .area {
+      text-align: right;
+      color: white;
+}
+
+.page-noticia-individual .slideshow {
+      width: 100%;
+}
+
+.page-noticia-individual .negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-noticia-individual .bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-noticia-individual .letra {
+      font-weight: bolder;
+}
+
+.page-noticia-individual .agenda {
+      width: 100%;
+}
+
+.page-noticia-individual .noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-noticia-individual .imagem2 {
+      height: 190px;
+      color: white;
+}
+
+.page-noticia-individual .maio {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-noticia-individual .noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-noticia-individual .junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-noticia-individual .imagem4 {
+      height: 190px;
+      color: white;
+}
+
+.page-noticia-individual .noticias {
+      background-color: grey;
+      height: 800px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.page-noticia-individual .pesquisa {
+      height: 200px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE2/images/iphone.jpeg');
+}
+
+.page-noticia-individual .documentos {
+      height: 500px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/milimetricas.jpg');
+}
+
+.page-noticia-individual .parcerias {
+      background-image: url('../images/serra.jpg');
+      height: 180px;
+}
+
+.page-noticia-individual .cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.page-noticia-individual .mapas {
+      height: 200px;
+      background-size: cover;
+      width: 100%;
+}
+
+.page-noticia-individual .informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 95px;
+}
+
+.page-noticia-individual .empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 90px;
+}
+
+.page-noticia-individual .turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-noticia-individual .exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-noticia-individual .doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.page-noticia-individual .doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-noticia-individual .doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-noticia-individual .telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align: center;
+}
+
+.page-noticia-individual .nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-noticia-individual .sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-noticia-individual .texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.page-noticia-individual .botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.page-noticia-individual .button {
+      text-align: center;
+      margin-top: -25px;
+      color: transparent;
+}
+
+.page-noticia-individual .imagem-mapa {
+      background-size: cover;
+      width: 100%;
+}
+
+.page-noticia-individual .img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.page-noticia-individual .logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.page-noticia-individual .centro2020 {
+      width: 100%;
+}
+
+.page-noticia-individual .texto-cores {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 15px;
+}
+
+.page-noticia-individual .imagem {
+      width: 100%;
+}
+
+.page-noticia-individual .imagens {
+      width: 100%;
+      margin-top: 20px;
+}
+
+.page-noticia-individual .teclados {
+      height: 190px;
+      width: 100%;
+}
+
+.page-noticia-individual .carousel-inner {
+      height: 100%;
+}
+
+.page-noticia-individual .item-active {
+      width: 100%;
+}
+
+.page-noticia-individual .seta {
+      border-color: white;
+      margin-top: 10px;
+}
+
+.page-noticia-individual .mao-metal {
+      width: 100%;
+      height: 190px;
+}
+
+.page-noticia-individual .cadernos {
+      width: 100%;
+      height: 190px;
+}
+
+.page-noticia-individual .agendas {
+      margin-top: 30px;
+      margin-left: 50px;
+}
+
+.page-noticia-individual .items {
+      margin-right: 100px;
+}
+
+.page-noticia-individual .item1 {
+      margin-left: 100px;
+      margin-top: 30px;
+}
+
+.page-noticia-individual .pioneer {
+      width: 100%;
+      margin-top: -15px;
+}
+
+.page-noticia-individual .phone {
+      width: 50%;
+}
+
+.page-noticia-individual .projeto {
+      width: 100%;
+      height: 1500px;
+      font-size: 355%;
+}
+
+.page-noticia-individual .logotipo {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 50px;
+}
+
+.page-noticia-individual .beiras {
+      background-color: white;
+      font-size: 15px;
+      margin-top: -150px;
+}
+
+.page-noticia-individual .fora-row {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 40px;
+      margin-top: -90px;
+}
+
+.page-noticia-individual .fora-row-1 {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 60px;
+}
+
+.page-noticia-individual .pro {
+      color: black;
+      font-weight: bolder;
+      font-size: 10px;
+}
+
+.page-noticia-individual .seta-icon {
+      margin-top: 20px;
+}
+
+.page-noticia-individual .row-texto {
+      margin-top: 60px;
+      width: 100%;
+}
+
+.page-noticia-individual .titulo {
+      font-weight: bolder;
+      font-size: 30px;
+}
+
+.page-noticia-individual .objetivo {
+      text-align: right;
+      font-size: 40px;
+      font-weight: bolder;
+      margin-top: -15px;
+      color: deeppink;
+}
+
+.page-noticia-individual .entidade {
+      text-align: right;
+      font-size: 20px;
+      font-weight: bolder;
+      margin-top: -15px;
+      color: black;
+}
+
+.page-noticia-individual .seta-torta {
+      margin-top: 15px;
+      text-align: left;
+}
+
+.page-noticia-individual .passa {
+      color: black;
+}
+
+.page-noticia-individual .desenhos {
+      margin-top: 100px;
+}
+
+.page-noticia-individual .noticia-indiv {
+      height: 1300px;
+      float: left;
+}
+
+.page-noticia-individual .texto-not {
+      margin-top: 200px;
+      height: 950px;
+}
+
+.page-noticia-individual .tags {
+      height: 70px;
+      margin-top: 250px;
+}
+
+.page-noticia-individual .couve {
+      text-align: left;
+      color: deepskyblue;
+      font-weight: bolder;
+}
+
+.page-noticia .bot {
+margin-top: 990px;
+background-color:blue; 
+
+}

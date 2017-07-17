@@ -1,0 +1,323 @@
+
+.page-contactos .input-group{
+      width: 50%;
+      margin-left: 50px;;
+}
+
+.page-contactos .search-barra {
+      height: 130px;
+      margin-top:80px;
+      margin-right: 180px;
+      margin-left:400px;
+       
+
+}
+
+.page-contactos .imagem-barra {
+      background-image: url('../images/serra.jpg');
+      height: 130px;
+}
+
+
+
+.page-contactos .rebse {
+      text-align: center;
+      color: white;
+}
+
+.page-contactos .area {
+      text-align: right;
+      color: white;
+}
+
+
+.page-contactos .slideshow {
+      width: 100%; 
+}
+
+.page-contactos .negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+
+}     
+
+.page-contactos .bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+      
+}
+.page-contactos .letra{
+     font-weight: bolder; 
+}
+
+.page-contactos .agenda {
+      width: 100%;
+}
+
+.page-contactos .noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-contactos .imagem2 {
+    
+      height: 190px;
+      color: white;
+}
+
+.page-contactos .maio {
+      background-color: palevioletred;
+      height: 190px;
+      color:white;
+}
+
+.page-contactos .noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-contactos .junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-contactos .imagem4 {
+     
+      height: 190px;
+      color: white;
+}
+
+.page-contactos .noticias {
+      background-color: grey;
+      height: 800px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/noticias-bg.jpg')
+}
+
+.page-contactos .pesquisa {
+
+      height: 200px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/images/pesquisa-bg.jpg')
+}
+
+.page-contactos .documentos {
+     
+      height: 500px;
+      background-image: url('../images/milimetricas.jpg');
+}
+
+
+
+.page-contactos .parcerias {
+      background-image: url('../images/serras.jpeg');
+     color: white;
+      width: 100%;
+    
+}
+
+.page-contactos .conta {
+      background-image: url('../images/serras.jpeg');
+      font-size: 30px;
+      font-family:bolder; 
+      width: 100%;
+      color: white;
+}
+
+.page-contactos .escrita {
+margin-top:30px;
+
+}
+
+.page-contactos .cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.page-contactos .mapas {
+      
+      margin-top:-20px;
+      background-size: cover;
+      width: 100%;
+}
+
+.page-contactos .informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 65px;
+}
+
+.page-contactos .empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 90px;
+}
+
+.page-contactos .turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-contactos .exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      margin-left: 50px;
+}
+
+.page-contactos .doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.page-contactos .doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+       margin-left: 20px;
+}
+
+.page-contactos .doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+       margin-left: 20px;
+}
+
+.page-contactos .telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align:center; 
+}
+
+.page-contactos .nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-contactos .sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-contactos .texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.page-contactos .botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.page-contactos .button {
+      text-align: center;
+      margin-top:-25px;
+      
+      color:transparent;
+}
+
+.page-contactos .imagem-mapa {
+      background-size: cover;
+      width: 100%;
+      height:190px; 
+}
+
+.page-contactos .img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.page-contactos .logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.page-contactos .centro2020 {
+      width: 100%;
+      margin-top: -10px;
+}
+
+.page-contactos .texto-cores{
+      color:deepskyblue;
+      font-weight:bolder; 
+      font-size:15px; 
+}
+
+.page-contactos .imagem{
+      width:100%; 
+      
+}
+
+.page-contactos .imagens{
+      width:100%; 
+      margin-top: 20px;
+      
+}
+
+.page-contactos .teclados{
+height:190px;
+width: 100%; 
+}
+
+.page-contactos .carousel-inner{
+height: 100%;
+}
+
+.page-contactos .item-active{
+width:100%; 
+
+}
+
+.page-contactos .seta{
+width:100%; 
+border-color:white;
+margin-top: 10px;
+
+
+}
+
+.page-contactos .mao-metal{
+      width: 100%;
+      height: 190px;
+}
+
+.page-contactos .cadernos{
+      width: 100%;
+      height: 190px;
+}
+
+.page-contactos .agendas{
+      margin-top: 30px;
+      margin-left: 50px;
+}
+.page-contactos .items{
+      margin-right:100px;
+}
+
+.page-contactos .item1{
+      margin-left:100px;
+      margin-top: 30px;
+}
+
+.page-contactos .pioneer{
+      width: 100%;
+      margin-top:-15px; 
+}
+
+.page-contactos .phone{
+      width: 50%;
+}

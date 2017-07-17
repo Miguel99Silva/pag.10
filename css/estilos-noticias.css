@@ -1,0 +1,417 @@
+.page-noticias .input-group {
+      width: 50%;
+      margin-left: 10px;
+}
+
+.page-noticias .search-barra {
+        height: 130px;
+    margin-top: 80px;
+      margin-right: 180px;
+      margin-left: 400px;
+      width: 100%;
+}
+
+.page-noticias .imagem-barra {
+      background-image:url('../images/serra.jpg'); 
+      height: 130px;
+}
+
+.page-noticias .rebse {
+      text-align: center;
+      color: white;
+}
+
+.page-noticias .area {
+      text-align: right;
+      color: white;
+}
+
+.page-noticias .slideshow {
+      width: 100%;
+}
+
+.page-noticias .negocio {
+      background-color: palevioletred;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-noticias .bolsa {
+      background-color: blue;
+      height: 130px;
+      text-align: center;
+      color: white;
+}
+
+.page-noticias .letra {
+      font-weight: bolder;
+}
+
+.page-noticias .agenda {
+      width: 100%;
+}
+
+.page-noticias .noticia-1 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-noticias .imagem2 {
+      height: 190px;
+      color: white;
+}
+
+.page-noticias .maio {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-noticias .noticia2 {
+      height: 300px;
+      margin-top: 40px;
+}
+
+.page-noticias .junho {
+      background-color: palevioletred;
+      height: 190px;
+      color: white;
+}
+
+.page-noticias .imagem4 {
+      height: 190px;
+      color: white;
+}
+
+.page-noticias .noticias {
+      background-color: gainsboro;
+      height: 1500px;
+   
+}
+
+.page-noticias .pesquisa {
+      height: 200px;
+      background-image: url('C:/Users/sentidocomum/Desktop/REBSE5/images/iphone.jpeg');
+}
+
+.page-noticias .documentos {
+      height: 500px;
+      background-image: url('C:/Users/Ondina/Desktop/REBSE/milimetricas.jpg');
+}
+
+.page-noticias .parcerias {
+      background-image: url('../images/serra.jpg');
+      height: 180px;
+}
+
+.page-noticias .cimbse {
+      height: 190px;
+      margin-top: 20px;
+}
+
+.page-noticias .mapas {
+      height: 200px;
+      background-size: cover;
+      width: 100%;
+}
+
+.page-noticias .informacao {
+      text-align: center;
+      height: 150px;
+      margin-top: 95px;
+}
+
+.page-noticias .empresa {
+      background-color: white;
+      height: 500px;
+      margin-top: -10px;
+      width: 30%;
+      margin-left:30px;
+}
+
+.page-noticias .turismo {
+      background-color: white;
+      height: 500px;
+      margin-top: -10px;
+      width: 30%;
+      margin-left:30px;
+}
+
+.page-noticias .exportacao {
+      background-color: white;
+      height: 500px;
+      margin-top: -10px;
+      width: 30%;
+      margin-left:30px;
+}
+
+.page-noticias .empresa1 {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+     width: 30%;
+     margin-left:30px;
+}
+
+.page-noticias .turismo1 {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+     width: 30%;
+     margin-left:30px;
+}
+
+.page-noticias .exportacao1 {
+      background-color: white;
+      height: 500px;
+      margin-top: 100px;
+      width: 30%;
+      margin-left:30px;
+}
+
+.page-noticias .doc1 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 120px;
+}
+
+.page-noticias .doc2 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-noticias .doc3 {
+      background-color: white;
+      height: 200px;
+      margin-top: 100px;
+      margin-left: 20px;
+}
+
+.page-noticias .telefone {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+      font-size: 20px;
+      font-weight: bolder;
+      text-align: center;
+}
+
+.page-noticias .nome {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-noticias .sugestao {
+      height: 90px;
+      margin-top: 30px;
+      color: black;
+}
+
+.page-noticias .texto {
+      font-size: 20px;
+      font-weight: bolder;
+}
+
+.page-noticias .botao-ler {
+      text-align: center;
+      margin-top: 10px;
+}
+
+.page-noticias .button {
+      text-align: center;
+      margin-top: -25px;
+      color: transparent;
+}
+
+.page-noticias .imagem-mapa {
+      background-size: cover;
+      width: 100%;
+}
+
+.page-noticias .img-responsive {
+      background-size: cover;
+      vertical-align: middle;
+}
+
+.page-noticias .logotipos {
+      width: 100%;
+      margin-top: 50px;
+}
+
+.page-noticias .centro2020 {
+      width: 100%;
+}
+
+.page-noticias .texto-cores {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 15px;
+}
+
+.page-noticias .imagem {
+      width: 100%;
+}
+
+.page-noticias .imagens {
+      width: 100%;
+      margin-top: 20px;
+}
+
+.page-noticias .teclados {
+      height: 190px;
+      width: 100%;
+}
+
+.page-noticias .carousel-inner {
+      height: 100%;
+}
+
+.page-noticias .item-active {
+      width: 100%;
+}
+
+.page-noticias .seta {
+      border-color: white;
+      margin-top: 10px;
+}
+
+.page-noticias .mao-metal {
+      width: 100%;
+      height: 190px;
+}
+
+.page-noticias .cadernos {
+      width: 100%;
+      height: 190px;
+}
+
+.page-noticias .agendas {
+      margin-top: 30px;
+      margin-left: 50px;
+}
+
+.page-noticias .items {
+      margin-right: 100px;
+}
+
+.page-noticias .item1 {
+      margin-left: 100px;
+      margin-top: 30px;
+}
+
+.page-noticias .pioneer {
+      width: 100%;
+      margin-top: -15px;
+}
+
+.page-noticias .phone {
+      width: 50%;
+}
+
+.page-noticias .projeto {
+      width: 100%;
+      height: 900px;
+      font-size: 355%;
+}
+
+.page-noticias .logotipo {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 50px;
+}
+
+.page-noticias .beiras {
+      background-color: white;
+      font-size: 15px;
+      margin-top: -150px;
+}
+
+.page-noticias .fora-row {
+      color: deepskyblue;
+      font-weight: bolder;
+      font-size: 20px;
+}
+
+.page-noticias .pro {
+      color: black;
+      font-weight: bolder;
+      font-size: 10px;
+}
+
+.page-noticias .seta-icon {
+      margin-top: 20px;
+}
+
+.page-noticias .row-texto {
+      margin-top: 8px;
+      width: 100%;
+}
+
+.page-noticias .titulo {
+      font-weight: bolder;
+      font-size: 30px;
+}
+
+.page-noticias .objetivo {
+      text-align: right;
+      font-size: 40px;
+      font-weight: bolder;
+      margin-top: -15px;
+      color: black;
+}
+
+.page-noticias .entidade {
+      text-align: right;
+      font-size: 20px;
+      font-weight: bolder;
+      margin-top: -15px;
+      color: black;
+}
+
+.page-noticias .seta-torta {
+      margin-top: 15px;
+      text-align: left;
+}
+
+.page-noticias .passa {
+      color: deeppink;
+}
+
+.page-noticias .desenhos {
+      margin-top: 100px;
+}
+
+.page-noticias .news {
+      color: deepskyblue;
+      font-size: 40px;
+      font-weight: bolder;
+      margin-left: 50px;
+}
+
+.page-noticias .btn-num {
+      border-color: black;
+      margin-left: 50px;
+}
+
+.page-noticias .btn {
+      border-color: black;
+      float: center;
+      margin-top: 100px;
+}
+
+
+.page-noticias .bot button{
+
+margin-top: 10px;
+background-color:  black;
+color: white;
+
+
+}
+
+/* andreia */
