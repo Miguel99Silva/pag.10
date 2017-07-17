@@ -138,7 +138,7 @@
 .page-entidades .informacao {
       text-align: center;
       height: 150px;
-      margin-top:205px;
+      margin-top: 65px;
 }
 
 .page-entidades .empresa {
@@ -343,21 +343,9 @@
      margin-top:60px; 
      margin-left:400px; 
 }
-.page-entidade .logo-nerga{
-    margin-left: 4000px;
-}
+
 .page-entidades .textoss{
       font-size:15px; 
-      margin-left:300px;  
+      margin-left:200px;  
       margin-top:-150px; 
-}
-.page-entidades .textos{
-      font-size:15px; 
-      margin-left:300px;  
-      margin-top:-20px; 
-}
-.page-entidades .textosss{
-      font-size:15px; 
-      margin-left:300px;  
-      margin-top:10px; 
 }
